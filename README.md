@@ -1,3 +1,5 @@
+Alunos: Alexandre e Nathalya
+
 # PawHearts
 
 PawHearts é um sistema de adoção de animais desenvolvido com Spring Boot no back-end e Angular no front-end.
